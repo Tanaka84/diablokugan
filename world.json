@@ -1,0 +1,41 @@
+{
+  "name": "diablokugan",
+  "title": "DiabloKugan",
+  "description": "<p>Uwamatsu ha muerto, los Kami caminan entre nosotros, y los mortales descienden la torre de memorias en busqueda de honor, gloria y respuestas...</p>\n<p> </p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Combat Maneuvers",
+      "entity": "Item",
+      "name": "combat-maneuvers",
+      "path": "packs/combat-maneuvers.db",
+      "system": "mythras",
+      "package": "world",
+      "absPath": "/foundry/data/Data/worlds/diablokugan/packs/combat-maneuvers.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "db313563d620ad391671b630bfff6c77.jpg",
+  "system": "mythras",
+  "coreVersion": "0.7.7",
+  "systemVersion": "0.1.2",
+  "nextSession": null,
+  "availability": 0,
+  "unavailable": false,
+  "id": "diablokugan"
+}

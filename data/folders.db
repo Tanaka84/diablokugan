@@ -1,0 +1,3 @@
+{"_id":"JLCRN77iEm7JZkgV","name":"Players","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#3d1df1"}
+{"name":"Enemies","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#f10321","_id":"OpNd6dK1FUR9y1DB"}
+{"_id":"yiIceUsMCB8x9JHZ","name":"NPCs","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#159b26"}
